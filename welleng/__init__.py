@@ -4,12 +4,12 @@ import welleng.error
 import welleng.survey
 import welleng.utils
 import welleng.mesh
+import welleng.connector
 import welleng.version
 import welleng.errors.tool_errors
 import welleng.exchange.wbp
 import welleng.exchange.csv
 import welleng.target
-import welleng.connector
 import welleng.exchange.edm
 import welleng.fluid
 import welleng.node
